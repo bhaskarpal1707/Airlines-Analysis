@@ -1,4 +1,4 @@
-# Aircraft Occupancy Optimization
+# ✈ Aircraft Occupancy Optimization 
 *Data-Driven Approaches to Strengthen Airline Profitability*
 
 ![Occupancy Impact](images/occupancy_impact.png)
