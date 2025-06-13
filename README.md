@@ -1,7 +1,7 @@
 # ✈ Aircraft Occupancy Optimization 
 *Data-Driven Approaches to Strengthen Airline Profitability*
 
-![Image1]([images/occupancy_impact.png](https://github.com/bhaskarpal1707/Airlines-Analysis/blob/main/Image1.jpg))
+![Image1](https://github.com/bhaskarpal1707/Airlines-Analysis/blob/main/Image1.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ Company operates a diverse fleet of small business jets and medium-sized aircraf
 - **CN1** had the lowest revenue — low demand and economy-only class.
 - Business class pricing consistently higher, but underutilized on certain aircraft.
 
-![Imag2]([images/avg_fare_class.png](https://github.com/bhaskarpal1707/Airlines-Analysis/blob/main/Image2.jpg))
+![Imag2](https://github.com/bhaskarpal1707/Airlines-Analysis/blob/main/Image2.jpg)
 
 ---
 
@@ -83,7 +83,7 @@ Company operates a diverse fleet of small business jets and medium-sized aircraf
 - Modeled 10% occupancy improvement → gradual revenue increase
 - Provided recommendations for pricing and service adjustment
 
-![Image3]([images/occupancy_impact.png](https://github.com/bhaskarpal1707/Airlines-Analysis/blob/main/Image3.jpg))
+![Image3](https://github.com/bhaskarpal1707/Airlines-Analysis/blob/main/Image3.jpg)
 
 ---
 
