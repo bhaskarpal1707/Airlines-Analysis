@@ -25,7 +25,6 @@ Company operates a diverse fleet of small business jets and medium-sized aircraf
 
 - **Python**: Data analysis (Pandas, NumPy), visualizations (Matplotlib, Seaborn)
 - **Jupyter Notebook**: Interactive analysis and reporting
-- **SQL** (if applicable): Data querying from internal databases
 - **Excel**: Supporting analysis and validation
 
 ---
